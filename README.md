@@ -65,41 +65,41 @@ Prediction + Confidence
 🧠 Deep Learning Approach
 🛠️ Technologies
 Python
-Google Colab
-TensorFlow / Keras
-OpenCV
-MediaPipe
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Streamlit
-GitHub
+,Google Colab
+,TensorFlow / Keras
+,OpenCV
+,MediaPipe
+,NumPy
+,Pandas
+,Scikit-learn
+,Matplotlib
+,Streamlit
+,GitHub
 
 📈 Planned Evaluation
 The model will be evaluated using:
 Accuracy
-Precision
-Recall
-F1-score
-Confusion Matrix
+,Precision
+,Recall
+,F1-score
+,Confusion Matrix
 
 🚧 Project Status
 Completed
 Literature survey
-Dataset collection and selection
-Fitzpatrick17k dataset analysis
-Selection of five target classes
-Google Colab and Google Drive setup
-Initial dataset analysis
-GitHub repository setup
+,Dataset collection and selection
+,Fitzpatrick17k dataset analysis
+,Selection of five target classes
+,Google Colab and Google Drive setup
+,Initial dataset analysis
+,GitHub repository setup
 
 
 In Progress / Planned
 Face detection
-Image preprocessing
-Model development and training
-Model evaluation
-Streamlit interface
-Testing
-Final documentation
+,Image preprocessing
+,Model development and training
+,Model evaluation
+,Streamlit interface
+,Testing
+,Final documentation
