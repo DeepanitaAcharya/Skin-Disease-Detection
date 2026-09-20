@@ -47,7 +47,7 @@ The selected subset contains **2,104 images** across the five target classes.
 
 The dataset annotations are provided through the official Fitzpatrick17k repository.
 
-## 🔬 Proposed Methodology
+## 🔬 Proposed Methodology: 
 Input Facial Image
         ↓
 Face Detection
@@ -63,7 +63,7 @@ Disease Classification
 Prediction + Confidence
 
 🧠 Deep Learning Approach
-🛠️ Technologies
+🛠️ Technologies:
 Python
 ,Google Colab
 ,TensorFlow / Keras
@@ -76,7 +76,7 @@ Python
 ,Streamlit
 ,GitHub
 
-📈 Planned Evaluation
+📈 Planned Evaluation: 
 The model will be evaluated using:
 Accuracy
 ,Precision
@@ -85,7 +85,7 @@ Accuracy
 ,Confusion Matrix
 
 🚧 Project Status
-Completed
+Completed: 
 Literature survey
 ,Dataset collection and selection
 ,Fitzpatrick17k dataset analysis
@@ -95,7 +95,7 @@ Literature survey
 ,GitHub repository setup
 
 
-In Progress / Planned
+In Progress / Planned: 
 Face detection
 ,Image preprocessing
 ,Model development and training
